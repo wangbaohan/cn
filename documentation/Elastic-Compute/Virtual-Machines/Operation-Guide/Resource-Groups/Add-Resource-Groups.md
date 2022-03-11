@@ -11,4 +11,4 @@
 
 - 在【自定义创建】、【高可用组内创建】、【指定宿主机创建】的系统配置页面中点击新建资源组超链，即可添加资源组
 
-![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image (3).png)
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-3.png)
