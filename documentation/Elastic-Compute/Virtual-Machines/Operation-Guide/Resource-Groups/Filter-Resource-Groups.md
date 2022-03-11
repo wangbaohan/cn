@@ -4,7 +4,7 @@
 
 ## 操作步骤
 
-- 访问[主机控制台](https://cns-console.jdcloud.com/host/compute/list)实例列表页面。或访问京东云控制台点击顶部导航栏 弹性计算-云主机,进入实例列表页
+- 访问[主机控制台](https://cns-console.jdcloud.com/host/compute/list)实例列表页面。或访问京东云控制台点击顶部导航栏 弹性计算-云主机，进入实例列表页
 
 - 可在实例列表页右上角联合搜索框中下拉搜索条件-资源组ID，进行资源组筛选
 
