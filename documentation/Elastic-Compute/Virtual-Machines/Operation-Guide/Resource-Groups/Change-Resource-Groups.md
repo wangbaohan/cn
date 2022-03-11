@@ -10,4 +10,27 @@
 
 - 点击实例列表页操作-更多-变更资源组
 
-![sdsd](../../../../image/Elastic-Compute/Virtual-Machine/image-4.png)
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-4.png)
+
+- 选择需要转入的资源组即可变更单一实例所在资源组
+
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-5.png)
+
+- 筛选实例后点击左下角更多-变更资源组
+
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-6.png)
+
+- 选择需要转入的资源组即可批量变更实例所在资源组
+
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-7.png)
+
+2.通过详情页变更
+
+- 在实例列表页点击实例id进入实例详情页
+
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-8.png)
+
+- 在实例详情页右上角，点击操作-变更资源组可对资源组进行单个变更
+
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-9.png)
+
