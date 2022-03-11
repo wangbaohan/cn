@@ -8,4 +8,4 @@
 
 - 可在实例列表页右上角联合搜索框中下拉搜索条件-资源组ID，进行资源组筛选
 
-![sdsd](../../../../image/Elastic-Compute/Virtual-Machine/image-10.png)
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-10.png)
