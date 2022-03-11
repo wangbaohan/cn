@@ -6,8 +6,8 @@
 
 支持功能：
 
-- 添加资源组
+- [添加资源组](https://github.com/wangbaohan/cn/blob/wangbaohan-patch-1/documentation/Elastic-Compute/Virtual-Machines/Operation-Guide/Resource-Groups/Add-Resource-Groups.md)
 
-- [变更资源组](Resource-Group-Introduction#user-content-1)
+- [变更资源组](https://github.com/wangbaohan/cn/blob/wangbaohan-patch-1/documentation/Elastic-Compute/Virtual-Machines/Operation-Guide/Resource-Groups/Change-Resource-Groups.md)
 
-- [筛选资源组](https://www.jdcloud.com/)
+- [筛选资源组](https://github.com/wangbaohan/cn/blob/wangbaohan-patch-1/documentation/Elastic-Compute/Virtual-Machines/Operation-Guide/Resource-Groups/Filter-Resource-Groups.md)
