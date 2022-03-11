@@ -4,7 +4,7 @@
 
 ## 操作步骤
 
-- 进入京东云控制台，访问实例列表页
+- 进入[京东云控制台](https://cns-console.jdcloud.com/host/compute/list)，访问实例列表页
 - 点击创建进入实例创建页
 
 ![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-1.png)
