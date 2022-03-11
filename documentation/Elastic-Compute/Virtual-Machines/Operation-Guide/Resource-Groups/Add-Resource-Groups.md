@@ -13,3 +13,4 @@
 
 ![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/image-3.png)
 
+- 选择需要转入的资源组即可变更单一实例所在资源组
