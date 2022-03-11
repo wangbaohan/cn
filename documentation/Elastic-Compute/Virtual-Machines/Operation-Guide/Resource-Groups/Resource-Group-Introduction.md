@@ -7,4 +7,4 @@
 变更资源组
 [筛选资源组](https://www.jdcloud.com/)
 使用限制：
-![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/图片.png)
+![sdsd](../../../../../image/Elastic-Compute/Virtual-Machine/1.png)
